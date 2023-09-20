@@ -18,9 +18,9 @@ The goal of these projects is to explore the implementation of Anomaly Detection
 
 ## Business Understanding
 Anomaly Detection systems have a lot of useful use cases for many businesses. From QoS (quality of service) in Telcom to Fraud detection in fintech.
-The use cases here will cover the folling scenarios:
+The use cases here will cover the following scenarios:
 * RSSI Wifi Anomaly - example: the quality of service provided to an user can be compromised when there are low RSSI values (for this dataset, high RSSI values);
-* Temperature Anomaly - example: identifying temperature anomalies can be reduce costs and food wasting in food wharehouses. 
+* Temperature Anomaly - example: identifying temperature anomalies can reduce costs and food wasting in food wharehouses. 
 
 ## Future Work
 These projects are simple in order to explore and understand the basics.
